@@ -1,8 +1,8 @@
-#Technologies Used
-+React
-+React Router
-+Redux Toolkit
-+Tailwind CSS
+# Technologies Used
++ React
++ React Router
++ Redux Toolkit
++ Tailwind CSS
 
 # Getting Started with Create React App
 
