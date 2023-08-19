@@ -1,0 +1,13 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+body {
+  box-sizing: border-box;
+  font-family: sans-serif;
+  color: #999;
+}
+
+html {
+  color: #999;
+
+}
